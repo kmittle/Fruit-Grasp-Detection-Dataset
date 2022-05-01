@@ -1,0 +1,3 @@
+This dataset contains 400 images of each type of fruit, including apple, carrot, kiwi, navel orange, pear, 
+banana, tangerine, lemon, corn, tomato, and cucumber. A total of 11 kinds of fruits, 4400 
+images. 
